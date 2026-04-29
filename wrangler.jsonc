@@ -9,4 +9,9 @@
 	"observability": {
 		"enabled": true
 	}
+    "binding": "oh_file_url",
+      "id": "a25cbb74922546faa51cc5fc21e792f3",
+      
+      // Optional: preview_id used when running `wrangler dev` for local dev
+      "preview_id": "<ID_OF_PREVIEW_KV_NAMESPACE_FOR_LOCAL_DEVELOPMENT>"
 }
